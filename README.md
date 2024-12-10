@@ -29,3 +29,16 @@ What is the asymptotic runtime ($\Theta$) of your algorithm in terms of the
 number of comparisons? What is it in terms of the number of flips? Add your
 answer to this markdown file.
 
+Asymptotic Runtime Analysis
+In terms of comparisons: The number of comparisons is 𝑂(𝑛^2) because in each iteration, we find the maximum element in the unsorted portion, which requires scanning up to 
+n, n−1, ..., down to 1 elements.
+
+In terms of flips: The number of flips is 𝑂(𝑛), as at most two flips are performed for each of the n elements in the array.
+
+Sources:
+Lecture Notes
+ChatGPT for understanding some of asyptotic logic within the algorithm
+https://dev.to/hagarbarakatt/pancake-sort-2c8f
+
+# Plagarism Statement
+All exercises must contain the following statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
