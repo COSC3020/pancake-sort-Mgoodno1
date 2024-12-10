@@ -37,7 +37,7 @@ In terms of flips: The number of flips is 𝑂(𝑛), as at most two flips are p
 
 Sources:
 Lecture Notes
-ChatGPT for understanding some of asyptotic logic within the algorithm
+ChatGPT for understanding some of asyptotic logic within the algorithm (mainly for the flips because I was overthinking it, so understanding how flips work in comparision with rest of function so then I could evaluate it correctly)
 https://dev.to/hagarbarakatt/pancake-sort-2c8f
 
 # Plagarism Statement
